@@ -9,7 +9,7 @@ String str=null;
 if(id!=null&&grade.equals("A")){
 	str="관리자 페이지 입니다.";
 }
-if(id==null){
+if(id==null){ 
 	str="Hello :-)"	;
 }else{
 	str="Hello~ "+id+"! :-)";
